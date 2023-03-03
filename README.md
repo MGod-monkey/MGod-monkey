@@ -23,7 +23,6 @@
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGod-monkey&show_icons=true&theme=radical)
 <!--
 **MGod-monkey/MGod-monkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
