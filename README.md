@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://www.mgodmonkey.love"><img src="kenan.png" alt="MGodmonkey"></a>
+  <a href="https://www.mgodmonkey.love"><img src="kenan.jpg" alt="MGodmonkey"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.mgodmonkey.love">MGodmonkey</a>!</h1>
