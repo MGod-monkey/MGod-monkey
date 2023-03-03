@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://www.mgodmonkey.love"><img src="banner.png" alt="edisonlee55 Banner"></a>
+  <a href="https://www.mgodmonkey.love"><img src="kenan.png" alt="MGodmonkey"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.mgodmonkey.love">MGodmonkey</a>!</h1>
@@ -21,7 +21,7 @@
 </p>
 -->
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ I'm university students and graduates.</p>
 
 <!--
 **MGod-monkey/MGod-monkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
