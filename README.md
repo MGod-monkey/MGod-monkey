@@ -1,8 +1,11 @@
-### Hi there 👋
+
+
+# Hi there 👋
 
 <p align="center">
   <a href="https://www.mgodmonkey.love"><img src="kenan.jpg" alt="MGodmonkey"></a>
 </p>
+
 
 <h1 align="center">Hi, I'm <a href="https://www.mgodmonkey.love">MGodmonkey</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
@@ -10,6 +13,10 @@
 <p align="center">
   <a href="https://github.com/MGod-monkey"><img src="https://github-readme-stats.vercel.app/api?username=MGod-monkey&show_icons=true&theme=radical" alt="MGodmonkey github stats"></a>
 </p>
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
+
 
 <!--
 <p align="center">
