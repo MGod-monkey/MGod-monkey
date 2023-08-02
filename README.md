@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/MGod-monkey"><img src="https://github-readme-stats.vercel.app/api?username=MGod-monkey&show_icons=true&theme=radical" alt="MGodmonkey github stats"></a>
+  <a href="https://github.com/MGod-monkey"><img src="https://github-readme-stats.vercel.app/api?username=MGod-monkey&show_icons=true&theme=tokyonight" alt="MGodmonkey github stats"></a>
 </p>
 
 <!-- 贪吃蛇代码贡献图 -->
@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
