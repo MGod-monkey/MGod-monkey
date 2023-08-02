@@ -15,7 +15,7 @@
 </p>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
+<!-- <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div> -->
 
 
 <!--
